@@ -1,0 +1,20 @@
+request-name
+Country ~ Brazil | Indicator : Storm
+Year	Value
+1980	1
+1982	1
+1984	1
+1985	1
+1989	1
+1994	1
+1997	1
+2001	1
+2004	1
+2005	1
+2008	1
+2009	1
+2013	1
+2015	1
+2020	1
+DescriptiveStats: [count: 15, min: 1.0, max: 1.0, mean: 1.0, median: 1.0, std dev: 0.0, variance: 0.0, skewness: NaN, kurtosis: NaN, total: 15.0]
+RegressionResult: [intercept: 1.0, slope: 0.0, slopeError: 0.0, Stable Tendency]
